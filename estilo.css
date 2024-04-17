@@ -1,0 +1,35 @@
+table, th,td{
+    border: 3px solid rgb(76, 207, 24);
+}
+body{
+    background-color:rgb(246, 246, 252) ;
+    width: 1200px;
+}
+div{
+    border: 2px solid rgb(119, 167, 25);
+
+}
+hr{
+    border: 1px solid rgb(11, 239, 136);
+}
+h2{
+    color:rgb(200, 109, 24); background-color:rgb(226, 226, 230) ;
+}
+h1{
+    color:rgb(22, 52, 82);
+}
+img{
+    border: 3px solid  rgb(15, 204, 59);;
+}
+
+li{
+
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+img{
+
+    max-width: 100%;
+    height: auto;
+}
